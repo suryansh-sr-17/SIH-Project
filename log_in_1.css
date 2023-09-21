@@ -97,15 +97,17 @@ button:hover
 .login
 {
     height: 460px;
-    background-color: #eee;
-    border-radius: 60% / 10%;
+    /* background-color: #eee; */
+    background-color: black;
+    /* border-radius: 60% / 10%; */
     transform: translateY(-180px);
     transition: .8s ease-in-out;
 }
 
 .login label
 {
-    color: black;
+    /* color: black; */
+    color: white;
     transform: scale(.6);
 }
 
